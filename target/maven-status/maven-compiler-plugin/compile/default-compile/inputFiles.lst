@@ -1,39 +1,18 @@
-<<<<<<< HEAD
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\jwt\AuthTokenFilter.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\controllers\AuthController.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\models\User.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\models\Role.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\repository\UserRepository.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\controllers\TestController.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\payload\response\MessageResponse.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\repository\RoleRepository.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\services\UserDetailsServiceImpl.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\models\ERole.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\payload\request\SignupRequest.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\WebSecurityConfig.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\payload\response\UserInfoResponse.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\services\UserDetailsImpl.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\Application.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\payload\request\LoginRequest.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\jwt\AuthEntryPointJwt.java
-D:\Users\cassi\DIO TransformaTec\aula115\manha\src\main\java\com\project\spring\security\login\security\jwt\JwtUtils.java
-=======
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\payload\request\LoginRequest.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\repository\RoleRepository.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\WebSecurityConfig.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\models\Role.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\services\UserDetailsImpl.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\services\UserDetailsServiceImpl.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\controllers\AuthController.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\jwt\JwtUtils.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\payload\request\SignupRequest.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\payload\response\MessageResponse.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\jwt\AuthEntryPointJwt.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\SpringBootSecurityLoginApplication.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\models\ERole.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\models\User.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\controllers\TestController.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\security\jwt\AuthTokenFilter.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\repository\UserRepository.java
-C:\Users\cassi\teste115-2\src\main\java\com\project\spring\security\login\payload\response\UserInfoResponse.java
->>>>>>> 99192488b38df0941582de7565b7d2267b2249c8
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\jwt\JwtUtils.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\payload\response\MessageResponse.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\controllers\AuthController.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\models\ERole.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\controllers\TestController.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\payload\request\SignupRequest.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\repository\RoleRepository.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\jwt\AuthTokenFilter.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\services\UserDetailsImpl.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\models\User.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\services\UserDetailsServiceImpl.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\models\Role.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\payload\request\LoginRequest.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\WebSecurityConfig.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\Application.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\repository\UserRepository.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\payload\response\UserInfoResponse.java
+C:\Users\cassi\aula116\src\main\java\com\project\spring\security\login\security\jwt\AuthEntryPointJwt.java
